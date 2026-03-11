@@ -14,15 +14,17 @@ font-family: "Permanent Marker", cursive;
   color: hotpink;
 }
 
-p {
-  font-family: "Oregano", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
 h2 {
 font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
   color: hotpink;
 }
+
+p {
+  font-family: "Oregano", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
